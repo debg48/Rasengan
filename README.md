@@ -1,1 +1,1 @@
-# A simple GAN for anime face generation
+# A modified DCGAN for anime face generation
